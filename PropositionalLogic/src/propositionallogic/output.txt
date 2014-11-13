@@ -1,0 +1,41 @@
+Pavyko rasti sprendima -JP JP
+ JP JM
+ SP SM
+ JP SP
+ JM SM KM
+ -JP -JM
+ -SP -SM
+ -JP -SP
+ -JM -SM
+ -SP
+ -JP
+ JM -JM
+ JP -JP
+ SP -JM
+ SM KM -JP
+ SM -SM
+ SP -SP
+ JP -SM
+ JM KM -SP
+ JM -SP
+ SM -JP
+ SM KM -SM
+ JM KM -JM
+ SM
+ JP
+ JM
+ SP
+ SM KM SP
+ -JM
+ -SP KM -JP
+ -JM KM -JP
+ JM KM JP
+ -SM
+ KM -JP JP
+ -SM KM -SP
+ SP KM -SP
+ SM JM
+ -JM KM -SM
+ JP KM -SM
+ SP KM -JM
+ SM KM
